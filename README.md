@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @albert7845
 - 👀 I’m interested in data science
-- 🌱 I’m currently looking for a job related to data science in Canada
+- 🌱 I’m currently working as a data analyst in Montreal, Canada
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email:albert.chen7845@gmail.com
 
